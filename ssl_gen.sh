@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-DOMAIN=domain.com
+DOMAIN=testing.com
 
 # tip, you can add more -d. ie:  -d www.domain.com
 
